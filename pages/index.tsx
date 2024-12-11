@@ -50,6 +50,9 @@ export default function Home() {
               <Link href="https://www.youtube.com/@UH2O" target="_blank">
                   <Image src="/images/yt.png" alt="YouTube" width={28} height={28} />
               </Link>
+              <Link href="https://open.spotify.com/artist/5JsjACl3gsmeAqgt1y6iCo?si=hScYW26tQg-MPtka7py20Q" target="_blank">
+                  <Image src="/images/spotify.png" alt="Spotify" width={28} height={28} />
+              </Link>
           </header>
           <main>
               Members:
