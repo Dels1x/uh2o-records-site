@@ -31,7 +31,7 @@ export default function Home() {
     <>
       <Head>
         <title>UH2O Records</title>
-        <meta name="description" content="UH2O Record official site" />
+        <meta name="description" content="UH2O Records official site" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
