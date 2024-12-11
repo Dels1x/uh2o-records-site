@@ -22,7 +22,6 @@ const members = [
     "Mden",
     "Big Stupid",
     "Happy Spudge",
-    "R1zery",
     "Lips"
 ]
 
