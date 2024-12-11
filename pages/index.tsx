@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 const members = [
     "Kazimir UH2O",
-    "Del206",
+    "Del206 (email: mr.blairdeee.66@gmail.com)",
     "ALEXEMEDR",
     "Mden",
     "Big Stupid",
